@@ -1,1 +1,1 @@
-# Необходимо создать Package со своим именем в папке src -> main -> java
+# Доска Trello: [*тык*](https://trello.com/b/5xL1T5ds/tutor)
