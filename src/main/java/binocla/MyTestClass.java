@@ -27,6 +27,8 @@ public class MyTestClass {
                     break;
                 }
             }
-            System.out.println(a);
+        for (Integer item: a) {
+            System.out.print(item + " ");
+            }
         }
     }
